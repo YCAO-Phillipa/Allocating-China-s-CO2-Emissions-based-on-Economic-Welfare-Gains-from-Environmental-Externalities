@@ -7,7 +7,7 @@ This model is used to reallocate environmental responsibility to consumers and p
 ## How to use the model
 ### Model components
 The model consists of two files:
-1. ShareEmissionBasedOnEcon: you don't need to change any parameters in this function
+1. ShareEmissionBasedOnEcon: a function used to compute you don't need to change any parameters in this function
 2. compute_tBasedOn_T: this part will output the responsibility sharing results
 
 ### Data input
