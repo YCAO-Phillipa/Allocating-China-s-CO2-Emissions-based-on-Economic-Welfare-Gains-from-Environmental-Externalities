@@ -7,8 +7,8 @@ This model is used to reallocate environmental responsibility to consumers and p
 ## How to use the model
 ### Model components
 The model consists of two files:
-1. ShareEmissionBasedOnEcon: a function used to compute you don't need to change any parameters in this function
-2. compute_tBasedOn_T: this part will output the responsibility sharing results
+1. ShareEmissionBasedOnEcon: a function used to solve implicit function of t. Basically, you don't need to change any parameters in this function
+2. compute_tBasedOn_T: this file contains the code to compute economic welfare and how to derive producer and consumer share. 
 
 ### Data input
 You need three matrices to run the model:
@@ -17,4 +17,4 @@ You need three matrices to run the model:
 3. deltaMTX(>0): Demand elesticity
 
 ### Running in MATLAB
-After inputting the necessary data, you can run the model by running the script compute_tBasedOn_T. 
+After inputting the necessary data, you can run the model by running the script named compute_tBasedOn_T. 
