@@ -18,3 +18,6 @@ You need three matrices to run the model:
 
 ### Running in MATLAB
 After inputting the necessary data, you can run the model by running the script named compute_tBasedOn_T. 
+
+### Cite as
+Yiyi Cao, Shen Qu, Heran Zheng, Jing Meng, Zhifu Mi, Weiming Chen, and Yi-Ming Wei. Environmental Science & Technology 2023 57 (20), 7709-7720. DOI: 10.1021/acs.est.3c00044
